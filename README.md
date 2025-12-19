@@ -1,4 +1,4 @@
-<img src="C:\Users\DELL\Downloads\1672336.jpg" width="100%" /img>
+<img src="C:\Users\DELL\Downloads\1672336.jpg" width="100%" />
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
