@@ -19,15 +19,13 @@
 - 🐍 Python Learner  
 - 🌐 Interested in Full Stack Development  
 - 📚 Currently learning DSA & Web Technologies with AI
-- 🎯 Goal: Get placed in a reputed IT company like **TCS**
+- 🎯 Goal: Get placed in a reputed IT company.
 
 ---
 
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </p>
